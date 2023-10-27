@@ -1,0 +1,21 @@
+Datum X: 0
+Datum Y: 0
+Point: 0, 0
+Point: 0, 100 
+Point: -200, 100
+Point: -200, 0
+Shape: rectangle
+Corner radius: 10
+Offset: inside
+Tool diameter: 6
+Pass depth: 5
+Material thickness: 12
+Bottom offset: 0
+Feedrate: 2500
+Plungerate: 500
+Spindle speed: 19000
+Cut direction: climb
+Tabs: false
+Finish stepover: 0.5
+Finish passes:2
+Finish stepdown: 12
